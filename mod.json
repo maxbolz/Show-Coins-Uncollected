@@ -10,5 +10,6 @@
 	"name": "Show Coins Uncollected",
 	"version": "v1.0.0",
 	"developer": "Zpicy",
-	"description": "A simple mod that makes user coins appear uncollected. Perfect for showcases!"
+	"description": "A simple mod that makes user coins appear uncollected. Perfect for showcases!",
+	"repository": "https://github.com/maxbolz/Show-Coins-Uncollected"
 }
